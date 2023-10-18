@@ -11,7 +11,7 @@ export default async function NewJoke() {
         <div className="my-2">
           <button className="bg-blue-600 text-white py-2 px-4 rounded"
                   type="Submit">
-            Save
+            Create Joke
           </button>
         </div>
       </form>
